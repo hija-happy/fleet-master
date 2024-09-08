@@ -22,7 +22,7 @@
 ## Setup Instructions
 
 1. Clone the repository:
-    ```bash
+   ```bash
    git clone https://github.com/hija-happy/fleet-master.git'''
    ```
 3. Navigate to the project directory:
@@ -30,15 +30,15 @@
    cd smartroutex
    ```
 4. Install dependencies:
-  ```bash
+   ```bash
    flutter pub get
-  ```
+   ```
 5. Configure Firebase:
    - Add your Firebase configuration files (\`google-services.json\` for Android, \`GoogleService-Info.plist\` for iOS).
 6. Run the project:
-    ```bash
+   ```bash
    flutter run
-    ```
+   ```
 
 ## Usage
 

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyB7ZHmGa4-3bOzDoRDlU9uWNMxeCI62ExU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>181106473114</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.fleet.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>fleetmangement-265be</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fleetmangement-265be.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:181106473114:ios:c15e57d9c3884a01678723</string>
+	<key>DATABASE_URL</key>
+	<string>https://fleetmangement-265be-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "181106473114",
+    "firebase_url": "https://fleetmangement-265be-default-rtdb.firebaseio.com",
+    "project_id": "fleetmangement-265be",
+    "storage_bucket": "fleetmangement-265be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181106473114:android:2f5897cd7d972765678723",
+        "android_client_info": {
+          "package_name": "com.example.fleet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQpLo704tjrCY5NEdNEcrraoFtc-Z55bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

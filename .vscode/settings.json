@@ -1,0 +1,6 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "dart.sdkPaths": [
+        "D:\\Flutter3.16.0\\flutter\\bin\\cache\\dart-sdk\\bin"
+    ]
+}
